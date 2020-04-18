@@ -1,6 +1,6 @@
 spring:
   application:
-    name: 'fornecedor'
+    name: 'loja'
   datasource:
     username: root
     password: root
